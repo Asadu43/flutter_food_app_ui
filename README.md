@@ -2,4 +2,4 @@
 
 Screenshot One:
 
-![]images/ssone.jpg
+![](images/ssone.jpg)
